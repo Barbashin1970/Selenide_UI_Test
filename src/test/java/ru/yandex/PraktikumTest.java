@@ -5,7 +5,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class PraktikumTest {
     @Test
-    public void test () {
+    public void testNew () {
 
         // открывается страница и создаётся экземпляр класса страницы
         LoginPageMestoSelenide loginPage =
